@@ -18,6 +18,20 @@ Nesta aula, você vai:
 - Ver demonstrações práticas do Gemini: criação de textos, códigos, traduções e ideias.
 - Descobrir o poder multimodal com análise de imagens e geração automática de sites e podcasts."
 
+## Aula 2 - Como conversar com a IA e fazer ela trabalhar pra você
+
+### Introdução
+
+Nesta aula, iremos conhecer as melhores técnicas e práticas de Engenharia de Prompt!
+Nesta aula, você vai:
+
+- Aprender os princípios de uma boa Engenharia de Prompt.
+- Comparar técnicas como Zero-Shot, Few-Shot e Chain-of-Thought.
+- Criar conteúdos reais: posts, newsletters e imagens com prompts estruturados.
+- Aplicar a IA em diferentes áreas, como marketing e finanças, usando dados reais.
+
 ## Links
 
 - [Google Gemini](https://goo.gle/alura-gemini)
+
+- [Estratégias de design de comandos](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br)
