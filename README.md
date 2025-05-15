@@ -41,6 +41,47 @@ Nesta aula, você vai:
 - Criar tarefas reais com IA: lembretes, roteiros de viagem e análise de arquivos.
 - Interagir por texto e voz com o Gemini Live, testando funções de live chat.
 
+## Aula 4 - Criando seu primeiro chatbot com IA generativa
+
+### Introdução
+
+Nesta aula, você vai gerar sua API Key no Google AI Studio e programar um chatbot em Python com o SDK do Gemini no Google Colab.
+Nesta aula, você vai:
+
+- Gerar e usar sua API Key no Google AI Studio.
+- Codificar no Google Colab com o SDK do Gemini.
+- Explorar os parâmetros da API e aprenda a usá-los com Python.
+- Construir um chatbot básico usando a Gemini API, testando diferentes interações.
+
+### Código Fonte
+
+[Código Fonte Aula 4](/src/aula4/aula4.py)
+
+## Desafio
+
+Deseja ir além? Envie seu projeto e concorra a prêmios:
+
+- Desenvolva um Projeto Relacionado à Aula 4 e/ou Aula 5 da Imersão IA
+  O projeto deve estar relacionado ao conteúdo da Aula 4 e/ou Aula 5 da Imersão IA, organizada pela Alura em parceria com o Google Gemini.
+
+- Uso Obrigatório da API Key do Google
+  É obrigatório o uso da API Key do Google.
+
+- Publicação do Projeto no GitHub
+  O projeto deve ser publicado no GitHub.
+
+- Submissão do Projeto
+  A submissão do projeto deve ser feita através [deste formulário](https://forms.gle/47Wdd92uoAKhGZj9A) no dia 17/05, até as 23h59.
+
+- Publicação e Votação no Discord
+  O projeto será publicado no Servidor do Discord da Imersão IA 2025 e a votação da comunidade será dia 18/05 até às 23h59
+  A votação acontece no canal "#Votação". Dê estrelas no projeto que você mais gostou e conecte-se com outras pessoas para incentivá-las a votar no seu projeto.
+
+- Anúncio dos Vencedores
+  O ranking final será divulgado na [live de encerramento](https://www.youtube.com/watch?v=fjL7TnjlJMQ) no YouTube no dia 19/05 às 18h30. Também será divulgado por e-mail para os vencedores e no [Guia de mergulho](https://www.notion.so/grupoalura/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb?pvs=4#97d51e2c6df04a1e9b72ac90a701da30).
+
+- Para saber mais, confira o regulamento da premiação [aqui!](https://fiapcom.sharepoint.com/:w:/s/Alura/EZ0pNPvzNH5ImD1cgW_Ty8QBvvbOWr5H2APC37tYKqpb5w?e=XIRmg4)
+
 ## Links
 
 - [Google Gemini](https://goo.gle/alura-gemini)
@@ -52,3 +93,62 @@ Nesta aula, você vai:
 - [Google AI for Developers Docs](http://goo.gle/alura-geminidocs)
 
 - [Google Colab](https://goo.gle/alura-colab)
+
+- [Gemini Cookbook](https://github.com/google-gemini/cookbook)
+
+## Como Rodar o Projeto
+
+### Requerimentos
+
+- Python 3.x
+
+### Passos
+
+1.  **Clone o repositório:**
+
+```bash
+git clone https://github.com/rodolfoHOk/alura.imersao-ia3
+cd alura.imersao-ia3
+```
+
+2.  **Crie um Ambiente Virtual:**
+
+```bash
+python3 -m venv .venv
+```
+
+3.  **Ative o Ambiente Virtual:**
+
+- **No Linux ou macOS (Bash/Zsh):**
+
+  ```bash
+  source .venv/bin/activate
+  ```
+
+- **No Windows (Prompt de Comando - cmd.exe):**
+
+  ```cmd
+  .venv\Scripts\activate.bat
+  ```
+
+- **No Windows (PowerShell):**
+
+  ```powershell
+  .venv\Scripts\Activate.ps1
+  ```
+
+4.  **Instale as Dependências:**
+
+```bash
+pip install -r requirements.txt
+```
+
+5.  **Execute o Script:**
+
+```bash
+python3 src/aula4/aula4.py
+```
+
+```bash
+python3 src/aula5/aula5.py
+```
