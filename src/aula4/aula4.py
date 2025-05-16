@@ -8,8 +8,8 @@ GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 
 client = genai.Client()
 
-# for model in client.models.list():
-#     print(model.name)
+for model in client.models.list():
+    print(model.name)
 
 model = 'gemini-2.0-flash'
 

@@ -1,0 +1,219 @@
+python3 src/aula5/aula5.py
+
+🚀 Iniciando o Sistema de Criação de Posts para Instagram com 4 Agentes 🚀
+❓ Por favor, digite o TÓPICO sobre o qual você quer criar o post de tendências: agentes de IA
+Maravilha! Vamos então criar o post sobre novidades em agentes de IA
+
+### 📝 Resultado do Agente 1 (Buscador)
+
+▌ Aqui estão alguns lançamentos recentes e relevantes relacionados a agentes de IA, com foco nos últimos meses:  
+▌ Com base nas notícias mais recentes e relevantes sobre agentes de IA, aqui estão alguns lançamentos e avanços notáveis:  
+▌ 1 IBM watsonx Orchestrate: A IBM anunciou atualizações para o watsonx Orchestrate, que oferece ferramentas para integrar, personalizar e implementar agentes de IA. Ele inclui o Agent
+▌ Catalog, que simplifica a integração com mais de 80 aplicações empresariais.  
+▌ 2 Anthropic API com busca na web: A Anthropic introduziu a funcionalidade de busca na web em sua API, permitindo que o agente Claude busque informações online para aprimorar suas  
+▌ respostas.  
+▌ 3 Salesforce Agentforce: A Salesforce lançou o Agentforce, uma camada em sua plataforma que permite que as empresas criem e implementem agentes de IA capazes de agir de forma  
+▌ autônoma em várias funções de negócios.  
+▌ 4 OpenAI GPT-4.1 e GPT-4.1 Mini: A OpenAI lançou os modelos GPT-4.1 e GPT-4.1 Mini para usuários do ChatGPT, com o GPT-4.1 oferecendo desempenho mais rápido e melhorias em  
+▌ programação.  
+▌ 5 GIGABYTE GiMATE: A GIGABYTE apresentou sua linha de PCs com IA com o agente GiMATE, que permite o controle integrado do notebook por meio da tecnologia LLM. O PC AORUS MASTER 16 AI
+▌ da GIGABYTE ganhou o Best Choice Award da COMPUTEX 2025.  
+▌ Esses lançamentos destacam a crescente importância dos agentes de IA em diversos setores, desde a automação de processos empresariais até a melhoria da experiência do usuário e o  
+▌ desenvolvimento de novas aplicações de IA. As empresas estão investindo fortemente no aprimoramento desses sistemas para torná-los mais personalizados, eficientes e capazes de  
+▌ resolver problemas complexos de forma autônoma.
+
+---
+
+### 📝 Resultado do Agente 2 (Planejador)
+
+▌ Com base nos lançamentos e avanços recentes em agentes de IA, vamos analisar os pontos mais relevantes de cada um para criar posts informativos e engajadores.  
+▌ 1. IBM watsonx Orchestrate:  
+▌ • Pontos Relevantes:  
+▌ • Ferramentas para integrar, personalizar e implementar agentes de IA.  
+▌ • Agent Catalog simplifica a integração com mais de 80 aplicações empresariais.  
+▌ • Possíveis Abordagens para um Post:  
+▌ • Como o watsonx Orchestrate facilita a adoção de agentes de IA em empresas.  
+▌ • O impacto do Agent Catalog na eficiência da integração de sistemas.  
+▌ • Exemplos de uso do watsonx Orchestrate em diferentes setores.  
+▌ 2. Anthropic API com busca na web:  
+▌ • Pontos Relevantes:  
+▌ • Agente Claude agora pode buscar informações online.  
+▌ • Aprimoramento das respostas com dados em tempo real.  
+▌ • Possíveis Abordagens para um Post:  
+▌ • Como a busca na web integrada melhora a precisão e relevância das respostas do Claude.  
+▌ • Aplicações práticas da busca na web para agentes de IA.  
+▌ • Comparativo entre agentes de IA com e sem acesso à busca na web.  
+▌ 3. Salesforce Agentforce:  
+▌ • Pontos Relevantes:  
+▌ • Camada para criar e implementar agentes de IA.  
+▌ • Agentes autônomos para várias funções de negócios.  
+▌ • Possíveis Abordagens para um Post:  
+▌ • Como o Agentforce capacita empresas a automatizar processos com IA.  
+▌ • Casos de uso do Agentforce em vendas, marketing e atendimento ao cliente.  
+▌ • O futuro da automação de negócios com agentes de IA da Salesforce.  
+▌ 4. OpenAI GPT-4.1 e GPT-4.1 Mini:  
+▌ • Pontos Relevantes:  
+▌ • Modelos GPT-4.1 e GPT-4.1 Mini disponíveis para usuários do ChatGPT.  
+▌ • GPT-4.1 oferece desempenho mais rápido e melhorias em programação.  
+▌ • Possíveis Abordagens para um Post:  
+▌ • Análise comparativa entre GPT-4.1 e versões anteriores.  
+▌ • Como o GPT-4.1 melhora a experiência do usuário no ChatGPT.  
+▌ • Aplicações do GPT-4.1 em tarefas de programação e desenvolvimento de software.  
+▌ 5. GIGABYTE GiMATE:  
+▌ • Pontos Relevantes:  
+▌ • Linha de PCs com IA com o agente GiMATE.  
+▌ • Controle integrado do notebook por meio da tecnologia LLM.  
+▌ • PC AORUS MASTER 16 AI ganhou o Best Choice Award da COMPUTEX 2025.  
+▌ • Possíveis Abordagens para um Post:  
+▌ • Como o GiMATE integra a IA no hardware de PCs.  
+▌ • Benefícios do controle por LLM para usuários de notebooks.  
+▌ • O que torna o AORUS MASTER 16 AI um produto premiado.  
+▌ Após analisar os lançamentos, o tema mais relevante para um post é a Anthropic API com busca na web. A capacidade do agente Claude de buscar informações online representa um avanço  
+▌ significativo na precisão e utilidade dos agentes de IA.  
+▌ Plano para um Post sobre a Anthropic API com busca na web:  
+▌ 1 Título: Anthropic Eleva o Nível dos Agentes de IA com Busca na Web Integrada  
+▌ 2 Introdução:  
+▌ • Breve resumo sobre a Anthropic e sua importância no campo da IA.  
+▌ • Apresentação da nova funcionalidade de busca na web na API do Claude.  
+▌ 3 O que é a Busca na Web Integrada?  
+▌ • Explicação de como o agente Claude agora pode acessar e usar informações da web em tempo real.  
+▌ • Detalhes técnicos sobre como a busca na web é implementada na API.  
+▌ 4 Benefícios e Aplicações:  
+▌ • Melhora na precisão e relevância das respostas.  
+▌ • Exemplos de uso em diferentes áreas: pesquisa, resumo de notícias, suporte ao cliente, etc.  
+▌ 5 Impacto no Mercado de Agentes de IA:  
+▌ • Como essa inovação pode influenciar o desenvolvimento de outros agentes de IA.  
+▌ • Comparativo com outros agentes de IA que não possuem essa funcionalidade.  
+▌ 6 Conclusão:  
+▌ • Reafirmação da importância da busca na web para agentes de IA.  
+▌ • Considerações finais sobre o futuro dos agentes de IA e a busca por informações em tempo real.  
+▌ 7 Chamada para Ação:  
+▌ • Incentivar os leitores a experimentar a API do Claude com busca na web.  
+▌ • Convidar a comunidade a discutir o impacto dessa tecnologia.  
+▌ Com base nas informações coletadas, aqui está um plano de postagem aprimorado sobre a API da Anthropic com pesquisa na web:  
+▌ Título: Anthropic revoluciona os agentes de IA com pesquisa na web integrada, oferecendo insights em tempo real  
+▌ Introdução:  
+▌ • Resuma brevemente a Anthropic e sua posição de liderança na inovação de IA.  
+▌ • Apresente a nova funcionalidade de pesquisa na web integrada na API Claude, destacando sua capacidade de fornecer informações atualizadas e insights práticos.  
+▌ O que é pesquisa na web integrada?  
+▌ • Explique como o agente Claude agora acessa e utiliza informações da web em tempo real para aprimorar suas respostas.  
+▌ • Detalhe o processo técnico: Claude gera consultas de pesquisa direcionadas com base nas necessidades do usuário, analisa os resultados e fornece respostas abrangentes com citações
+▌ de fontes.  
+▌ • Enfatize a capacidade do Claude de realizar múltiplas buscas progressivas, refinando as consultas com base nos resultados anteriores para uma pesquisa completa.  
+▌ • Mencione os parâmetros de controle disponíveis para os desenvolvedores, como "max_uses" para ajustar o número de pesquisas.  
+▌ Benefícios e aplicações:  
+▌ • Precisão e relevância aprimoradas: destaque como a pesquisa na web integrada melhora significativamente a precisão e a relevância das respostas do Claude, aproveitando dados em  
+▌ tempo real.  
+▌ • Casos de uso específicos do setor:  
+▌ • Serviços financeiros: Capacite os agentes de IA a analisar preços de ações em tempo real, tendências de mercado e atualizações regulatórias.  
+▌ • Pesquisa jurídica: Crie ferramentas para acessar decisões judiciais recentes, mudanças regulatórias e notícias jurídicas.  
+▌ • Ferramentas de desenvolvedor: Permita que o Claude consulte a documentação mais recente da API, lançamentos do GitHub e atualizações tecnológicas.  
+▌ • Produtividade: Construa agentes que incorporem os relatórios corporativos mais recentes, inteligência competitiva ou pesquisa do setor.  
+▌ • Suporte ao cliente: Melhore os chatbots com informações atualizadas sobre detalhes do produto, preços e etapas de solução de problemas.  
+▌ • Pesquisa: Acelere a coleta e organização de informações para trabalhos acadêmicos, análises de mercado ou pesquisas jurídicas.  
+▌ Impacto no mercado de agentes de IA:  
+▌ • Discuta como esse avanço pode influenciar o desenvolvimento de outros agentes de IA, estabelecendo um novo padrão para precisão e capacidade em tempo real.  
+▌ • Compare o Claude com outros agentes de IA que não possuem pesquisa na web, mostrando as vantagens competitivas.  
+▌ • Mencione as tentativas da Anthropic de se tornar o mecanismo de busca do futuro.  
+▌ Garantia de Confiança e Controle:  
+▌ • Destaque a inclusão de citações para fontes da web em cada resposta, promovendo a transparência e permitindo que os usuários verifiquem as informações diretamente.  
+▌ • Explique as configurações de gerenciamento adicionais que as organizações podem usar:  
+▌ • Listas de permissão de domínio: Especifique os domínios dos quais Claude pode pesquisar e recuperar informações.  
+▌ • Listas de bloqueio de domínio: Evite que Claude acesse domínios específicos que contenham conteúdo sensível ou inadequado.  
+▌ • Controle de uso: Gerencie o uso da pesquisa na web em nível organizacional.  
+▌ Integração com as Ferramentas do Desenvolvedor:  
+▌ • Mencione a disponibilidade da pesquisa na web no Claude Code, tornando-a acessível para desenvolvedores durante os fluxos de trabalho de solução de problemas ou ao trabalhar com  
+▌ novas estruturas.  
+▌ • Destaque a capacidade do Claude de acessar a documentação da API atual, artigos técnicos e outras informações em ferramentas e bibliotecas de desenvolvimento.  
+▌ Conclusão:  
+▌ • Reafirme o significado da pesquisa na web para agentes de IA, enfatizando sua capacidade de fornecer informações precisas, insights em tempo real e soluções inovadoras em todos os
+▌ setores.  
+▌ • Considere as implicações futuras dos agentes de IA e a busca por informações em tempo real.  
+▌ Chamada para ação:  
+▌ • Incentive os leitores a explorar a API Claude com pesquisa na web e descobrir seu potencial para seus projetos.  
+▌ • Convide a comunidade para discutir o impacto dessa tecnologia e compartilhar seus casos de uso inovadores.  
+▌ Informações adicionais para incluir se houver espaço:  
+▌ • Preços: Mencione que a pesquisa na web está disponível no Claude 3.7 Sonnet, no Claude 3.5 Sonnet atualizado e no Claude 3.5 Haiku por US$ 10 por 1.000 pesquisas, além dos custos  
+▌ padrão por token.  
+▌ • Exemplos de código: Se possível, forneça exemplos de trechos de código mostrando como ativar a ferramenta de pesquisa na web em solicitações de API.  
+▌ • Integração com o instrutor: Mencione como combinar a ferramenta de pesquisa na web da Anthropic com o instrutor permite obter dados estruturados em tempo real da web, facilitando a
+▌ construção de aplicativos dinâmicos e ricos em informações.  
+▌ Ao abordar esses pontos de forma clara e concisa, o post fornecerá uma visão abrangente da API da Anthropic com pesquisa na web, seus benefícios e suas aplicações práticas, atraindo  
+▌ efetivamente seu público-alvo.
+
+---
+
+### 📝 Resultado do Agente 3 (Redator)
+
+▌ Okay, aqui está um rascunho de post para Instagram sobre a API da Anthropic com busca na web, seguindo o plano e focado em ser engajador e informativo para o público da Alura:  
+▌ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+▌ Rascunho de Post para Instagram  
+▌ (Sugestão de imagem/carrossel: Uma imagem chamativa representando uma IA conectada à internet ou ícones que remetem a busca e informações em tempo real.)  
+▌ Título/Primeira Linha (Para chamar atenção!):  
+▌ ⚡️ A Internet Agora é o Campo de Busca do Claude da Anthropic!  
+▌ Corpo do Post:  
+▌ Imagina uma inteligência artificial que não se limita ao que aprendeu no treinamento, mas que busca informações FRESQUINHAS direto da internet? 🤯  
+▌ A Anthropic deu um passo GIGANTE e integrou a busca na web na API do seu agente Claude! Isso significa que ele agora pode acessar dados em TEMPO REAL para te dar respostas mais  
+▌ precisas e atualizadas do que nunca. 📈  
+▌ 🤔 Como isso funciona? O Claude analisa o que você precisa, faz buscas direcionadas na web, analisa os resultados e te entrega a resposta completa. E o melhor: ele CITA as fontes  
+▌ originais, dando transparência e permitindo que você confira tudo!  
+▌ 💡 Para que serve essa busca em tempo real? MUITA COISA!  
+▌ • Analisar preços de ações no momento certo 💹  
+▌ • Buscar as leis mais recentes em tempo real ⚖️  
+▌ • Consultar a documentação técnica mais atualizada para devs 💻  
+▌ • Melhorar chatbots de suporte com infos de produtos atualizadas 🛒  
+▌ • Acelerar pesquisas de mercado ou acadêmicas 📚  
+▌ Essa novidade muda o jogo para agentes de IA, tornando-os ferramentas ainda mais poderosas e conectadas com o mundo real. E para as empresas, há controles para gerenciar quais sites o
+▌ Claude pode buscar.  
+▌ Para quem desenvolve, a busca na web já está disponível no Claude Code, super útil para resolver problemas ou usar novas bibliotecas.  
+▌ Essa capacidade de ir além do conhecimento estático e buscar informações dinâmicas abre um universo de possibilidades para o futuro da IA!  
+▌ O que você acha dessa evolução? Onde mais essa busca em tempo real pode fazer a diferença na sua área? Conta pra gente nos comentários! 👇  
+▌ #InteligenciaArtificial #Anthropic #ClaudeAI #AgentesDeIA #Inovacao #Tecnologia  
+▌ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+---
+
+### 📝 Resultado do Agente 4 (Revisor)
+
+▌ Olá! Analisei o rascunho do post. Ele está muito bom no geral: o tom é super adequado para o público, é engajador, a estrutura está clara (chamada, explicação, exemplos, CTA), e o uso
+▌ de emojis e hashtags funciona bem para o Instagram.  
+▌ No entanto, notei dois pontos que poderiam ser ligeiramente ajustados para maior precisão e clareza técnica:  
+▌ 1 Frase "integrou a busca na web na API do seu agente Claude!": A construção "na API do seu agente Claude" soa um pouco redundante ou confusa. O Claude é o agente, e a busca foi  
+▌ integrada à API dele.  
+▌ • Sugestão de melhoria: Poderia ser "integrou a busca na web à API do Claude!" ou "integrou a busca na web ao seu agente Claude (via API)!". A primeira opção ("à API do Claude")  
+▌ parece mais direta e comum na comunicação sobre APIs.  
+▌ 2 Frase "a busca na web já está disponível no Claude Code": "Claude Code" não é um produto separado ou uma interface específica; refere-se ao uso do Claude para tarefas de  
+▌ programação. A funcionalidade de busca na web está disponível via API para todos os usos (incluindo tasks de código). A frase atual pode dar a entender que a busca só funciona para
+▌ quem usa o Claude para codar, o que não é o caso.  
+▌ • Sugestão de melhoria: Poderia ser algo como "E para quem desenvolve, a busca na web via API é super útil para resolver problemas ou usar novas bibliotecas (como no 'Claude  
+▌ Code')." ou "A busca na web via API já está disponível e é super útil para diversas tarefas, inclusive para desenvolvedores (facilitando tarefas como no 'Claude Code')." Isso  
+▌ deixa claro que a busca é uma feature da API e destaca sua utilidade para devs.  
+▌ Com esses pequenos ajustes, o post fica ainda mais preciso mantendo o excelente tom e engajamento.  
+▌ Aqui está uma versão revisada com as sugestões:  
+▌ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+▌ Rascunho de Post para Instagram (Revisado)  
+▌ (Sugestão de imagem/carrossel: Uma imagem chamativa representando uma IA conectada à internet ou ícones que remetem a busca e informações em tempo real.)  
+▌ Título/Primeira Linha (Para chamar atenção!):  
+▌ ⚡️ A Internet Agora é o Campo de Busca do Claude da Anthropic!  
+▌ Corpo do Post:  
+▌ Imagina uma inteligência artificial que não se limita ao que aprendeu no treinamento, mas que busca informações FRESQUINHAS direto da internet? 🤯  
+▌ A Anthropic deu um passo GIGANTE e integrou a busca na web à API do Claude! Isso significa que ele agora pode acessar dados em TEMPO REAL para te dar respostas mais precisas e  
+▌ atualizadas do que nunca. 📈  
+▌ 🤔 Como isso funciona? O Claude analisa o que você precisa, faz buscas direcionadas na web, analisa os resultados e te entrega a resposta completa. E o melhor: ele CITA as fontes  
+▌ originais, dando transparência e permitindo que você confira tudo!  
+▌ 💡 Para que serve essa busca em tempo real? MUITA COISA!  
+▌ • Analisar preços de ações no momento certo 💹  
+▌ • Buscar as leis mais recentes em tempo real ⚖️  
+▌ • Consultar a documentação técnica mais atualizada para devs 💻  
+▌ • Melhorar chatbots de suporte com infos de produtos atualizadas 🛒  
+▌ • Acelerar pesquisas de mercado ou acadêmicas 📚  
+▌ Essa novidade muda o jogo para agentes de IA, tornando-os ferramentas ainda mais poderosas e conectadas com o mundo real. E para as empresas, há controles para gerenciar quais sites o
+▌ Claude pode buscar.  
+▌ A busca na web via API já está disponível e é super útil para diversas tarefas, inclusive para desenvolvedores (facilitando tarefas como no 'Claude Code').  
+▌ Essa capacidade de ir além do conhecimento estático e buscar informações dinâmicas abre um universo de possibilidades para o futuro da IA!  
+▌ O que você acha dessa evolução? Onde mais essa busca em tempo real pode fazer a diferença na sua área? Conta pra gente nos comentários! 👇  
+▌ #InteligenciaArtificial #Anthropic #ClaudeAI #AgentesDeIA #Inovacao #Tecnologia  
+▌ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+▌ O rascunho está muito bom e, com esses pequenos ajustes, estará pronto para publicar!
+
+---

@@ -57,6 +57,22 @@ Nesta aula, você vai:
 
 [Código Fonte Aula 4](/src/aula4/aula4.py)
 
+## Aula 5 - Construindo agentes que resolvem tarefas por você
+
+### Introdução
+
+Nesta última aula, você vai entender o que são agentes de IA e como funciona o ADK. Vai montar um agente com tools e lógica de decisão, além de implementar um sistema multiagentes básico focado em automação de tarefas de escrita.
+Nesta aula, você vai:
+
+- Entender o que são agentes de IA e como o ADK funciona.
+- Montar um agente com tools, prompts e lógica de decisão.
+- Aprender o conceito de orquestração com múltiplos agentes.
+- Implementar um sistema multi-agentes básico, com foco em automação de tarefas de escrita.
+
+### Código Fonte
+
+[Código Fonte Aula 5](/src/aula5/aula5.py)
+
 ## Desafio
 
 Deseja ir além? Envie seu projeto e concorra a prêmios:
@@ -95,6 +111,10 @@ Deseja ir além? Envie seu projeto e concorra a prêmios:
 - [Google Colab](https://goo.gle/alura-colab)
 
 - [Gemini Cookbook](https://github.com/google-gemini/cookbook)
+
+- [Google Agent Development Kit](https://developers-googleblog-com.translate.goog/en/agent-development-kit-easy-to-build-multi-agent-applications/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
+
+- [Google ADK Docs](https://google-github-io.translate.goog/adk-docs/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
 
 ## Como Rodar o Projeto
 
